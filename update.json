@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "60aa6960a2028fcbaedc1fd71bbd69ec4e2f2602854aebac7d018da08a8d2a74",
-  "notes": "账单逐条配对显示；模型改用 ModelScope 下载；更新下载支持断点续传",
+  "sha256": "8cf4847027672c3e8816b638815fe947deaa40eb1dd5adc33f3928ed954f17b1",
+  "notes": "账单批次可展开收起；模型下载支持后台和断点续传；修复重复下载",
   "mandatory": false
 }

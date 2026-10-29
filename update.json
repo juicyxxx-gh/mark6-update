@@ -1,8 +1,8 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.2",
-    "apkUrl":  "https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-    "sha256":  "5f13f412dd8102c1d89b46ff7d263712a7c817a522699a77622c6348a0e1c250",
-    "notes":  "账单逐条配对显示；模型改用 ModelScope 下载；更新包改走 raw 直链",
-    "mandatory":  false
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
+  "sha256": "5f13f412dd8102c1d89b46ff7d263712a7c817a522699a77622c6348a0e1c250",
+  "notes": "账单逐条配对显示；模型改用 ModelScope 下载；更新包改走 raw 直链",
+  "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "e46ce9daa44b19e78ccdf2f6b65756f3bbe30eeb02e90c21c23b7949c98a36e0",
-  "notes": "账单展开收起；模型后台/断点下载；1.7B/3B SHA修复；红绿蓝波；连肖/平特玩法；时间区间",
+  "sha256": "2cee7b88096f5fe561462b26ae09b7da8f18c972498035c48ba62042464ce2ff",
+  "notes": "玩法自定义名称/说明；AI提示词可改；各组仍为批量；模型/时间区间修复",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "ef765cfaf7038f4d9adef37888a4db707ed53d9ed4124ca3c52582b9c413b0ea",
-  "notes": "AI提示词默认填充可修改；模型下载完成立即显示设为当前",
+  "sha256": "556b395b035f6b61410f5a33ee26392ea4bd8825432e6373f21a4f07db7452ad",
+  "notes": "修复AI推理：系统提示词必须在模型加载后立即设置；提示词变化自动重载模型",
   "mandatory": false
 }

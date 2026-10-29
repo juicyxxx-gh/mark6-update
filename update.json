@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "1.10",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "6fd009e1292edf4fa221128fab4ee8ae8294ad0466f9dca757b35e4fc96e4815",
-  "notes": "批量格式三选一；手机提示词设为默认；不是账单删除；空行分块",
+  "sha256": "430a662e1b1e4ea92fe8f9f6269e1ceee57924585442735bbfe8e570c5b6a0b0",
+  "notes": "批量格式紧凑三选一；账单卡片点击展开收起；手机提示词设为默认",
   "mandatory": false
 }

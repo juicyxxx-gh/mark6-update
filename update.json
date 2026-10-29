@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/juicyxxx-gh/mark6-update/releases/download/v1.1/mark6-debug.apk",
+  "sha256": "e232c760887bdc9463f5bb96f5293bc6162605c93b8f197931241cfe1db101e2",
+  "notes": "修复分隔符、账单原文合并显示",
+  "mandatory": false
+}

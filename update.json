@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/juicyxxx-gh/mark6-update/releases/download/v1.1/mark6-debug.apk",
-  "sha256": "e232c760887bdc9463f5bb96f5293bc6162605c93b8f197931241cfe1db101e2",
-  "notes": "修复分隔符、账单原文合并显示",
-  "mandatory": false
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "apkUrl":  "https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
+    "sha256":  "5f13f412dd8102c1d89b46ff7d263712a7c817a522699a77622c6348a0e1c250",
+    "notes":  "账单逐条配对显示；模型改用 ModelScope 下载；更新包改走 raw 直链",
+    "mandatory":  false
 }

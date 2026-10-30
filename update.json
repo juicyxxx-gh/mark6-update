@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
+  "versionCode": 15,
+  "versionName": "1.14",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "ec15f8ac7cc2e81f5aec78a2ba2128995b9c92545f6afe32e34548aaf1134f58",
-  "notes": "字体缩放封顶 1.3 倍、按钮自动换行不再被挤出屏幕、输入框高度自适应并提示折行不影响解析；新增红/蓝/绿波解析（含红波单数/红单等单双写法）",
+  "sha256": "6a4b6cbeb80ee08b18473f102b2b299221a9e0e01bba71622e596df11d383e5d",
+  "notes": "修复“分隔符”输入框独占一行：批量格式三个选项恢复同一行（放不下才换行）",
   "mandatory": false
 }

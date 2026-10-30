@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
+  "versionCode": 12,
+  "versionName": "1.11",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "430a662e1b1e4ea92fe8f9f6269e1ceee57924585442735bbfe8e570c5b6a0b0",
-  "notes": "批量格式紧凑三选一；账单卡片点击展开收起；手机提示词设为默认",
+  "sha256": "670ffceb66ae60ec725f2577515436134fc48c26df33bf0c835d41f7329e19bd",
+  "notes": "空行分隔按整条解析：忽略昵称行、合并换行拆开的号码、市场标题管到下一个市场；平特肖按组合记账；AI 只处理失败部分并每次清空对话，不是账单不再自动删除",
   "mandatory": false
 }

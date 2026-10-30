@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
+  "versionCode": 13,
+  "versionName": "1.12",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "670ffceb66ae60ec725f2577515436134fc48c26df33bf0c835d41f7329e19bd",
-  "notes": "空行分隔按整条解析：忽略昵称行、合并换行拆开的号码、市场标题管到下一个市场；平特肖按组合记账；AI 只处理失败部分并每次清空对话，不是账单不再自动删除",
+  "sha256": "0434ed6ca1f586dea4eae48188e3d97183dd466e154426fd80fc602bdc968914",
+  "notes": "一条消息只出现一个市场时整条按该市场；两个市场按标题分段；修复 AI 修正后原文变成 AI 输出；账单页原文不显示昵称/时间行；识别 ！～、奥03、09.七十斤、平特一肖：蛇:200# 等写法",
   "mandatory": false
 }

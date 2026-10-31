@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
+  "versionCode": 16,
+  "versionName": "1.15",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "6a4b6cbeb80ee08b18473f102b2b299221a9e0e01bba71622e596df11d383e5d",
-  "notes": "修复“分隔符”输入框独占一行：批量格式三个选项恢复同一行（放不下才换行）",
+  "sha256": "99101c26fe63b5c5b435637681419fa39f423bcf856df106538fbec37cdccf90",
+  "notes": "更新检查改为多地址回退：清单依次尝试 gh-proxy、jsDelivr、GitHub，安装包下载失败也会自动换源，不再受 jsDelivr 12 小时缓存影响；默认更新地址改为 gh-proxy",
   "mandatory": false
 }

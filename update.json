@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
+  "versionCode": 17,
+  "versionName": "1.16",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "99101c26fe63b5c5b435637681419fa39f423bcf856df106538fbec37cdccf90",
-  "notes": "更新检查改为多地址回退：清单依次尝试 gh-proxy、jsDelivr、GitHub，安装包下载失败也会自动换源，不再受 jsDelivr 12 小时缓存影响；默认更新地址改为 gh-proxy",
+  "sha256": "ee9cc6056110d090c4a5ef5bc154e117d926a7d8797dc00e63b42a85eaa2ace0",
+  "notes": "删除本地模型，改用 OpenAI 兼容接口（设置页填 API-KEY / Base URL / 模型名称，可测试连接）；失败段合并一次调用，按段拆开入账，编号对不上时整体合并入账；账单页标出 AI 解析的注单；APK 从 55MB 降到 12MB",
   "mandatory": false
 }

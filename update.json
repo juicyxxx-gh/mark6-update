@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
+  "versionCode": 18,
+  "versionName": "1.17",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "ee9cc6056110d090c4a5ef5bc154e117d926a7d8797dc00e63b42a85eaa2ace0",
-  "notes": "删除本地模型，改用 OpenAI 兼容接口（设置页填 API-KEY / Base URL / 模型名称，可测试连接）；失败段合并一次调用，按段拆开入账，编号对不上时整体合并入账；账单页标出 AI 解析的注单；APK 从 55MB 降到 12MB",
+  "sha256": "a0e31c9cc8e791efe962cf234422fa7bffa507aa0c0a4ed4e587baa95352b8a6",
+  "notes": "修复记录页空白（粘贴框、批量格式、失败条目列表已恢复）；账单页标出 AI 解析的注单",
   "mandatory": false
 }

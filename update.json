@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
+  "versionCode": 20,
+  "versionName": "1.19",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "eabd4e00dd88f534f8bb9afe2f77202c60918e99420c2a6f444ae6c72c8afa43",
-  "notes": "报表按新格式重做：分区标题、小计/总计层级、每个玩法带生肖汇总、港澳分隔线；账单页澳特只显示市场名；修复提示词保存无效、连肖写法、金额校验误判、SSE 流式响应；App 更名格式整理器",
+  "sha256": "a3abb726a76b63fc49401fbc34a4d2cc553ce6b26a31e7108b3f4de5ef977da4",
+  "notes": "账单页切换不再闪烁（数据常驻、后台加载）；展开秒开（清洗结果缓存）；新增复制按钮，可复制整批或全部账单的完整信息（原文+解析结果+失败条目）；修复旧规则快照缺少连肖标记导致解析失败（换手机/恢复备份同样生效）",
   "mandatory": false
 }

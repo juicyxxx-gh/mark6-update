@@ -1,7 +1,7 @@
 {
   "versionCode": 25,
   "versionName": "1.24",
-  "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
+  "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/64e2f5553549ed4a63cf35e676c6125f4697c4d1/mark6-debug.apk",
   "sha256": "fdcba3e210b9dce1cbea8a533955e2a8bdaf2cc2a9ded9436448842a57f1d991",
   "notes": "新增详细诊断日志，支持导出 TXT 和分享到微信，便于排查不同设备的解析差异。",
   "mandatory": false

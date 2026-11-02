@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
+  "versionCode": 21,
+  "versionName": "1.20",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "a3abb726a76b63fc49401fbc34a4d2cc553ce6b26a31e7108b3f4de5ef977da4",
-  "notes": "账单页切换不再闪烁（数据常驻、后台加载）；展开秒开（清洗结果缓存）；新增复制按钮，可复制整批或全部账单的完整信息（原文+解析结果+失败条目）；修复旧规则快照缺少连肖标记导致解析失败（换手机/恢复备份同样生效）",
+  "sha256": "0a9c0ea9bf0c4d1bd805a5c980f4e7498e45966ef68680eb4692a362b0413cf9",
+  "notes": "更新账单处理、复制与界面功能，改进解析校验。",
   "mandatory": false
 }

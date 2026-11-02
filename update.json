@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
+  "versionCode": 25,
+  "versionName": "1.24",
   "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-  "sha256": "0a9c0ea9bf0c4d1bd805a5c980f4e7498e45966ef68680eb4692a362b0413cf9",
-  "notes": "更新账单处理、复制与界面功能，改进解析校验。",
+  "sha256": "fdcba3e210b9dce1cbea8a533955e2a8bdaf2cc2a9ded9436448842a57f1d991",
+  "notes": "新增详细诊断日志，支持导出 TXT 和分享到微信，便于排查不同设备的解析差异。",
   "mandatory": false
 }

@@ -1,8 +1,8 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.31",
+    "versionCode":  33,
+    "versionName":  "1.32",
     "apkUrl":  "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
-    "sha256":  "bd802d12d418f67f13cd13b73e4ed74b23a5e4cf3714b433f3f05d64596e31bf",
-    "notes":  "新增微信多选消息分享：分享后直接填入解析输入框",
+    "sha256":  "81dfcb470777abcc335f43608d9f02082e9bf31998ba8593a02b314dedc1ca6e",
+    "notes":  "微信分享兼容：接收任意分享类型，非文本分享会提示收到的类型",
     "mandatory":  false
 }

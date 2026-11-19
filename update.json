@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.30",
-  "apkUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/a8522bd15c50b0ac7550571173cb00cb7c16fbdc/mark6-debug.apk",
-  "sha256": "d5917a197034a1274602002703c221962a880d801855cdd7d896d2f8833ad5d2",
-  "notes": "修复生肖各肖解析与校验、AI 账单原文显示，账单删除增加确认。",
-  "mandatory": false
+    "versionCode":  32,
+    "versionName":  "1.31",
+    "apkUrl":  "https://gh-proxy.com/https://raw.githubusercontent.com/juicyxxx-gh/mark6-update/main/mark6-debug.apk",
+    "sha256":  "bd802d12d418f67f13cd13b73e4ed74b23a5e4cf3714b433f3f05d64596e31bf",
+    "notes":  "新增微信多选消息分享：分享后直接填入解析输入框",
+    "mandatory":  false
 }
